@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+/* login */
+h2{
+    background-color: yellow;
+}
+.formulario{
+    background-color: red;
+    border: 1.5px solid;
+}
+#para1 {
+
+    text-align: center;
+    color:black;
+}
